@@ -1,87 +1,86 @@
 [
-        {
-            "household": "Potter, Babriel",
-            "client": "Potter, Babriel IRA",
-            "fundname": "Investment Co of America",
-            "ticker": "123",
-            "assets": "$12876.23",
-            "priorDayChange": "$34.62",
-            "priorDayPercent": "2.48%",
-            "abandonedPropertyRisk": 'Yes',
-            "bookRanking": "84/500",
-            "percentOfBook": "1.47%"
-      },
-      {
-            "household": "Potter, Babriel",
-            "client": "Potter, Babriel IRA",
-            "fundname": "Growth Fund of America",
-            "ticker": "AIVSX",
-            "assets": "$12276.23",
-            "priorDayChange": "$51.62",
-            "priorDayPercent": "5.48%",
-            "abandonedPropertyRisk": 'Yes',
-            "bookRanking": "80/500",
-            "percentOfBook": "2.27%"
-      },
-      {
-            "household": "Potter, Babriel",
-            "client": "Potter, Babriel IRA",
-            "fundname": "American Century Growth",
-            "ticker": "TWCGX",
-            "assets": "$12876.23",
-            "priorDayChange": "$34.62",
-            "priorDayPercent": "2.48%",
-            "abandonedPropertyRisk": 'Yes',
-            "bookRanking": "84/500",
-            "percentOfBook": "1.47%"
-      },
-      {
-            "household": "Potter, Babriel",
-            "client": "Potter, Babriel Single",
-            "fundname": "American Century Growth",
-            "ticker": "ABCC",
-            "assets": "$12876.23",
-            "priorDayChange": "$34.62",
-            "priorDayPercent": "2.48%",
-            "abandonedPropertyRisk": 'Yes',
-            "bookRanking": "84/500",
-            "percentOfBook": "1.47%"
-      },
-      {
-            "household": "Potter, Babriel",
-            "client": "Potter, Babriel Single",
-            "fundname": "Test Fund Name",
-            "ticker": "AABB",
-            "assets": "$12876.23",
-            "priorDayChange": "$34.62",
-            "priorDayPercent": "2.48%",
-            "abandonedPropertyRisk": 'Yes',
-            "bookRanking": "84/500",
-            "percentOfBook": "1.47%"
-      },
-      {
-            "household": "Grant, Brett",
-            "client": "Grant, Brett IRA",
-            "fundname": "Test Fund Name",
-            "ticker": "AABB",
-            "assets": "$12876.23",
-            "priorDayChange": "$34.62",
-            "priorDayPercent": "2.48%",
-            "abandonedPropertyRisk": 'Yes',
-            "bookRanking": "84/500",
-            "percentOfBook": "1.47%"
-      },
-      {
-            "household": "Weber, Ana",
-            "client": "Weber, Ana IRA",
-            "fundname": "Test Fund Name",
-            "ticker": "AABB",
-            "assets": "$12876.23",
-            "priorDayChange": "$34.62",
-            "priorDayPercent": "2.48%",
-            "abandonedPropertyRisk": 'Yes',
-            "bookRanking": "84/500",
-            "percentOfBook": "1.47%"
-      }
-      
-    ]
+    {
+        "household": "Potter, Babriel",
+        "client": "Potter, Babriel IRA",
+        "fundname": "Investment Co of America",
+        "ticker": "123",
+        "assets": "$12876.23",
+        "priorDayChange": "$34.62",
+        "priorDayPercent": "2.48%",
+        "abandonedPropertyRisk": "Yes",
+        "bookRanking": "84/500",
+        "percentOfBook": "1.47%"
+    },
+    {
+        "household": "Potter, Babriel",
+        "client": "Potter, Babriel IRA",
+        "fundname": "Growth Fund of America",
+        "ticker": "AIVSX",
+        "assets": "$12276.23",
+        "priorDayChange": "$51.62",
+        "priorDayPercent": "5.48%",
+        "abandonedPropertyRisk": "Yes",
+        "bookRanking": "80/500",
+        "percentOfBook": "2.27%"
+    },
+    {
+        "household": "Potter, Babriel",
+        "client": "Potter, Babriel IRA",
+        "fundname": "American Century Growth",
+        "ticker": "TWCGX",
+        "assets": "$12876.23",
+        "priorDayChange": "$34.62",
+        "priorDayPercent": "2.48%",
+        "abandonedPropertyRisk": "Yes",
+        "bookRanking": "84/500",
+        "percentOfBook": "1.47%"
+    },
+    {
+        "household": "Potter, Babriel",
+        "client": "Potter, Babriel Single",
+        "fundname": "American Century Growth",
+        "ticker": "ABCC",
+        "assets": "$12876.23",
+        "priorDayChange": "$34.62",
+        "priorDayPercent": "2.48%",
+        "abandonedPropertyRisk": "Yes",
+        "bookRanking": "84/500",
+        "percentOfBook": "1.47%"
+    },
+    {
+        "household": "Potter, Babriel",
+        "client": "Potter, Babriel Single",
+        "fundname": "Test Fund Name",
+        "ticker": "AABB",
+        "assets": "$12876.23",
+        "priorDayChange": "$34.62",
+        "priorDayPercent": "2.48%",
+        "abandonedPropertyRisk": "Yes",
+        "bookRanking": "84/500",
+        "percentOfBook": "1.47%"
+    },
+    {
+        "household": "Grant, Brett",
+        "client": "Grant, Brett IRA",
+        "fundname": "Test Fund Name",
+        "ticker": "AABB",
+        "assets": "$12876.23",
+        "priorDayChange": "$34.62",
+        "priorDayPercent": "2.48%",
+        "abandonedPropertyRisk": "Yes",
+        "bookRanking": "84/500",
+        "percentOfBook": "1.47%"
+    },
+    {
+        "household": "Weber, Ana",
+        "client": "Weber, Ana IRA",
+        "fundname": "Test Fund Name",
+        "ticker": "AABB",
+        "assets": "$12876.23",
+        "priorDayChange": "$34.62",
+        "priorDayPercent": "2.48%",
+        "abandonedPropertyRisk": "Yes",
+        "bookRanking": "84/500",
+        "percentOfBook": "1.47%"
+    }
+]
